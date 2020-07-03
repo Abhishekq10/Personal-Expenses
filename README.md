@@ -1,4 +1,4 @@
-# personal_expenses
+# Personal Expenses
 
 Flutter app for Personal Expenses
 
